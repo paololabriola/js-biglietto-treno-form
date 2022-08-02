@@ -1,5 +1,6 @@
-const form = document.getElementById('data-insert');const scontoMinorenni = 0.2;
+const form = document.getElementById('data-insert');
 
+const scontoMinorenni = 0.2;
 const scontoAnziani = 0.4;
 const etaLimiteGiovani = 18;
 const etaLimiteAnziani = 65;
